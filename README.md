@@ -1,5 +1,3 @@
-#Act Mindful
-
 Its an implementation of a website as a solution that can provide mental health care support remotely. There are a lot of existing work in this field but also huge barriers that includes lacking access to the services, major eMH drawbacks, limited treatment, high costs etc. I used HTML, CSS and JS to design this website. Google authentication service was added to save user's time and effort. it will require just a browser making it easier to adopt than other stuff available.
 
 The thought was to make easy access for patients through their phone at any time of the day for immediate support. this can use social media and gaming to encourage the patient to adhere to treatment, and sensors already built into the phone may be able to incorporate environment-specific cues and appropriate responses. I split the sections of our website into 6 sections: A Home page, an about us section, services, blogs, feedback and contact.
