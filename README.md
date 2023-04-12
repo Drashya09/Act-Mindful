@@ -18,8 +18,17 @@ main section that will provide access to referred books, emergency contacts and 
 • Feedback:
 Existing users can share their thoughts and opinions based on the services provided to them through an attached google form
 
+![Feedback](Feedback.png)
+![ResponsiveFeedback](ResponsiveFeedback.png)
+
 • Blogs:
 Part of the site that contains informational content about it.
 
+![Blogs](Blogs.png)
+
 • Contact:
-A section that will ask users to submit their names, contact numbers and other relevant details, through which people can actually reach out to us. Other than this, a social handle of this website was made including Instagram and gmail. E-mental health applications are proliferating and hold promise to expand access to care. Identifying key gaps in our knowledge, Further discussion and research are needed on how to effectively incorporate e-mental health into service systems and to apply it to diverse populations.
+A section that will ask users to submit their names, contact numbers and other relevant details, through which people can actually reach out to us. Other than this, a social handle of this website was made including Instagram and gmail. 
+
+![Contact](Contact.png)
+
+E-mental health applications are proliferating and hold promise to expand access to care. Identifying key gaps in our knowledge, Further discussion and research are needed on how to effectively incorporate e-mental health into service systems and to apply it to diverse populations.
