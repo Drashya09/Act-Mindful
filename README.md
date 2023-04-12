@@ -7,24 +7,30 @@ A welcoming page for all the users
 
 ![Home](Home.png)
 
+
 • The About Us section:
 its body of the web application for users to know more about the team and aim
 
 ![About us](About%20us.png)
 
+
 • Services:
 main section that will provide access to referred books, emergency contacts and address of doctors etc.
+
 
 • Feedback:
 Existing users can share their thoughts and opinions based on the services provided to them through an attached google form
 
 ![Feedback](Feedback.png)
+
 ![ResponsiveFeedback](ResponsiveFeedback.png)
+
 
 • Blogs:
 Part of the site that contains informational content about it.
 
 ![Blogs](Blogs.png)
+
 
 • Contact:
 A section that will ask users to submit their names, contact numbers and other relevant details, through which people can actually reach out to us. Other than this, a social handle of this website was made including Instagram and gmail. 
