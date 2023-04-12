@@ -5,6 +5,8 @@ The thought was to make easy access for patients through their phone at any time
 • Home page:
 A welcoming page for all the users
 
+![Home](Home.png)
+
 • The About Us section:
 its body of the web application for users to know more about the team and aim
 
@@ -19,5 +21,3 @@ Part of the site that contains informational content about it.
 
 • Contact:
 A section that will ask users to submit their names, contact numbers and other relevant details, through which people can actually reach out to us. Other than this, a social handle of this website was made including Instagram and gmail. E-mental health applications are proliferating and hold promise to expand access to care. Identifying key gaps in our knowledge, Further discussion and research are needed on how to effectively incorporate e-mental health into service systems and to apply it to diverse populations.
-
-##Screenshots
