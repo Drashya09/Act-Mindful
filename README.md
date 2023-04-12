@@ -10,7 +10,7 @@ A welcoming page for all the users
 • The About Us section:
 its body of the web application for users to know more about the team and aim
 
-![About](About.png)
+![About us](About%20us.png)
 
 • Services:
 main section that will provide access to referred books, emergency contacts and address of doctors etc.
